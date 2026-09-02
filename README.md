@@ -1,5 +1,5 @@
 
-<h2 align="center">Linus Remote Access Trojan</h2>
+<h2 align="center">A Random Discord RAT</h2>
 
 <p align="center">
   <img width="400" height="333" alt="image" src="fck" />
@@ -19,6 +19,7 @@
 * INFOS TO WRITE IN THE C++ CODE
 
 
+
 ## INFORMATION
 
 | Information | Description |
@@ -30,7 +31,6 @@
 | `SCREENSETTINGS` | SOME SCREEN SETTINGS |
 | `SPOIL` | TEXT SPOILER |
 | `TITLE` | WINDOW TITLE TEXT |
-
 
 
 ## Remote Access Trojan
@@ -54,12 +54,12 @@
      Write all the needed Informations.
      ```
 
-3. **Put your PATH and your BOTTOKEN**
+3. **Invite the bot in your server**
    - ```bash
-     https://discord.com/developers/applications
+     comin soon
      ```
      
-4. **Ready to Larp**
+4. **Ready to Go**
    - ```bash
      Do what you want
      ```
