@@ -1,10 +1,3 @@
-#include <iostream>
-#include <iomanip>
-#include <Windows.h>
-#include <string>
-#include <cstdlib>
-#include <fstream>
-using namespace std;
 
 
 #define MAGENTA "\033[35m"
