@@ -20,18 +20,6 @@ app = Flask(__name__)
 
 
 
-##  ┌─────────────────────────┐ 
-##  │        IMPORTANT        │
-##  │                         │
-##  │   EDUCATIONAL PURPOSES  │
-##  │          ONLY           │
-##  │     -- DONT LARP --     │
-##  │                         │
-##  │                         │
-##  │                         │
-##  │                         │
-##  └─────────────────────────┘ 
-
 
 capture = WindowsCapture(
     cursor_capture=None,
