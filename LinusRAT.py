@@ -19,6 +19,18 @@ app = Flask(__name__)
 
 
 
+##  ┌─────────────────────────┐ 
+##  │        IMPORTANT        │
+##  │                         │
+##  │   EDUCATIONAL PURPOSES  │
+##  │          ONLY           │
+##  │     -- DONT LARP --     │
+##  │                         │
+##  │                         │
+##  │                         │
+##  │                         │
+##  └─────────────────────────┘ 
+
 
 
 capture = WindowsCapture(
